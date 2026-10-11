@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Sidd07Dev/DSA/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/Sidd07Dev/DSA/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Sidd07Dev/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0268-missing-number](https://github.com/Sidd07Dev/DSA/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/Sidd07Dev/DSA/tree/master/0485-max-consecutive-ones) |
 ## Hash Table
@@ -37,4 +38,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Sidd07Dev/DSA/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Sidd07Dev/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
