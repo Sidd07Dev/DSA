@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sidd07Dev/DSA/tree/master/0001-two-sum) |
+| [0048-rotate-image](https://github.com/Sidd07Dev/DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Sidd07Dev/DSA/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/Sidd07Dev/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sidd07Dev/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Sidd07Dev/DSA/tree/master/0048-rotate-image) |
 | [0268-missing-number](https://github.com/Sidd07Dev/DSA/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -53,5 +55,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Sidd07Dev/DSA/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Sidd07Dev/DSA/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
