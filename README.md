@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Sidd07Dev/DSA/tree/master/0015-3sum) |
+| [0876-middle-of-the-linked-list](https://github.com/Sidd07Dev/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Sidd07Dev/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
 |  |
@@ -73,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Sidd07Dev/DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Sidd07Dev/DSA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Sidd07Dev/DSA/tree/master/0073-set-matrix-zeroes) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/Sidd07Dev/DSA/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
