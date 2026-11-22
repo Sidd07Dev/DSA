@@ -10,11 +10,15 @@ class Solution:
         fast=head
         my_set=[]
         while fast and fast.next:
-            if slow in my_set:
-                return slow
-            my_set.append(slow)
             fast = fast.next.next
             slow = slow.next
+            if slow is fast :
+                slow=head
+                while slow !=fast :
+                    slow=slow.next
+                    fast=fast.next
+                
+                return slow
 
             
 
